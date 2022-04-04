@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**AutumnVN/AutumnVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AutumnVN&show_icons=true&theme=radical&hide_border=true" width="550"/>
+</p>
+<p align="center"> 
+  <a href="https://osu.ppy.sh/users/AutumnVN"><img src="https://osu-stats-signature.vercel.app/card?user=AutumnVN&mode=std&animation=true" width="550" /></a>
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AutumnVN/count.svg" />
+</p>
