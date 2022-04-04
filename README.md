@@ -1,3 +1,16 @@
+# Hi, I'm AutumnVN 👋
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AutumnVN&show_icons=true&theme=radical&hide_border=true" width="550"/>
+</p>
+<p align="center"> 
+  <a href="https://osu.ppy.sh/users/AutumnVN"><img src="https://osu-stats-signature.vercel.app/card?user=AutumnVN&mode=std&lang=en&animation=true" width="550" /></a>
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AutumnVN/count.svg" />
+</p>
+
 # My Genshin Stats
 
 <table>
@@ -12,7 +25,7 @@
             20 x Primogem
         </td>
     </tr>
-    <tr><td>Last checked</td><td>04.04.2022 02:24:25 UTC</td></tr>
+    <tr><td>Last checked</td><td>04.04.2022 12:13:14 UTC</td></tr>
 </table>
 
 ## Stats
@@ -22,14 +35,14 @@
     <tr><td>Active days</td><td>100</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
-    <tr><td>Anemoculi</td><td>0</td></tr>
-    <tr><td>Geoculi</td><td>0</td></tr>
-    <tr><td>Electroculi</td><td>8</td></tr>
+    <tr><td>Anemoculi</td><td>65</td></tr>
+    <tr><td>Geoculi</td><td>130</td></tr>
+    <tr><td>Electroculi</td><td>158</td></tr>
     <tr><td>Common chests</td><td>868</td></tr>
     <tr><td>Exquisite chests</td><td>766</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
-    <tr><td>Unlocked waypoints</td><td>136</td></tr>
+    <tr><td>Unlocked waypoints</td><td>160</td></tr>
     <tr><td>Unlocked domains</td><td>30</td></tr>
 </table>
 
@@ -51,20 +64,32 @@
 
 <table>
     <tr>
+        <th>Enkanomiya</th>
         <th>Inazuma</th>
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
-        <th></th>
     </tr>
     <tr>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
-        <td><p align="center"><img src="" width="180"></p></td>
     </tr>
     <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>81.0%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>0</td>
+                </tr>
+            </table>
+        </td>
         <td>
             <table>
                 <tr>
@@ -110,18 +135,6 @@
                 <tr>
                     <td>Reputation level</td>
                     <td>8</td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td>Explored</td>
-                    <td>81.0%</td>
-                </tr>
-                <tr>
-                    <td>Offering level</td>
-                    <td>0</td>
                 </tr>
             </table>
         </td>
