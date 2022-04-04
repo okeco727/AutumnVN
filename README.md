@@ -16,16 +16,16 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>54</td></tr>
-    <tr><td>Primogems</td><td>551<br>(2022-04-04 07:27:17)</td></tr>
-    <tr><td>Total rewards claimed</td><td>4</td></tr>
+    <tr><td>Primogems</td><td>611<br>(2022-04-04 19:58:14)</td></tr>
+    <tr><td>Total rewards claimed</td><td>5</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png" width="120px">
             <br>
-            20 x Primogem
+            3 x Sweet Madame
         </td>
     </tr>
-    <tr><td>Last checked</td><td>04.04.2022 12:13:14 UTC</td></tr>
+    <tr><td>Last checked</td><td>04.04.2022 16:49:17 UTC</td></tr>
 </table>
 
 ## Stats
