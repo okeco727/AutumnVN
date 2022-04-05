@@ -16,29 +16,29 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>54</td></tr>
-    <tr><td>Primogems</td><td>611<br>(2022-04-04 19:58:14)</td></tr>
-    <tr><td>Total rewards claimed</td><td>5</td></tr>
+    <tr><td>Primogems</td><td>733<br>(2022-04-05 09:02:52)</td></tr>
+    <tr><td>Total rewards claimed</td><td>6</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            3 x Sweet Madame
+            2 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>04.04.2022 16:49:17 UTC</td></tr>
+    <tr><td>Last checked</td><td>05.04.2022 16:47:43 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>335</td></tr>
-    <tr><td>Active days</td><td>100</td></tr>
+    <tr><td>Active days</td><td>101</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Electroculi</td><td>158</td></tr>
-    <tr><td>Common chests</td><td>868</td></tr>
+    <tr><td>Electroculi</td><td>159</td></tr>
+    <tr><td>Common chests</td><td>869</td></tr>
     <tr><td>Exquisite chests</td><td>766</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
@@ -94,7 +94,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>85.2%</td>
+                    <td>85.4%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
