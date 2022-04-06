@@ -17,32 +17,32 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>54</td></tr>
     <tr><td>Primogems</td><td>733<br>(2022-04-05 09:02:52)</td></tr>
-    <tr><td>Total rewards claimed</td><td>6</td></tr>
+    <tr><td>Total rewards claimed</td><td>7</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
             <br>
-            2 x Adventurer's Experience
+            8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>05.04.2022 16:47:43 UTC</td></tr>
+    <tr><td>Last checked</td><td>06.04.2022 16:46:16 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>335</td></tr>
-    <tr><td>Active days</td><td>101</td></tr>
+    <tr><td>Active days</td><td>102</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
-    <tr><td>Anemoculi</td><td>65</td></tr>
-    <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Electroculi</td><td>159</td></tr>
+    <tr><td>Anemoculi</td><td>0</td></tr>
+    <tr><td>Geoculi</td><td>0</td></tr>
+    <tr><td>Electroculi</td><td>9</td></tr>
     <tr><td>Common chests</td><td>869</td></tr>
     <tr><td>Exquisite chests</td><td>766</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
-    <tr><td>Unlocked waypoints</td><td>160</td></tr>
+    <tr><td>Unlocked waypoints</td><td>136</td></tr>
     <tr><td>Unlocked domains</td><td>30</td></tr>
 </table>
 
@@ -64,32 +64,20 @@
 
 <table>
     <tr>
-        <th>Enkanomiya</th>
         <th>Inazuma</th>
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
+        <th></th>
     </tr>
     <tr>
-        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
+        <td><p align="center"><img src="" width="180"></p></td>
     </tr>
     <tr>
-        <td>
-            <table>
-                <tr>
-                    <td>Explored</td>
-                    <td>81.0%</td>
-                </tr>
-                <tr>
-                    <td>Offering level</td>
-                    <td>0</td>
-                </tr>
-            </table>
-        </td>
         <td>
             <table>
                 <tr>
@@ -135,6 +123,18 @@
                 <tr>
                     <td>Reputation level</td>
                     <td>8</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>81.0%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>0</td>
                 </tr>
             </table>
         </td>
@@ -196,7 +196,7 @@
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Friendship</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>6</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>5 x Emblem of Severed Fate</td></tr>
     <tr><td>Outfits</td><td></td></tr>
