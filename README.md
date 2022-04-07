@@ -4,6 +4,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AutumnVN&show_icons=true&theme=radical&hide_border=true" width="550"/>
 </p>
 <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AutumnVN&layout=compact&theme=radical&hide_border=true" width="550"/>
+</p>
+<p align="center"> 
   <a href="https://osu.ppy.sh/users/AutumnVN"><img src="https://osu-stats-signature.vercel.app/card?user=AutumnVN&mode=std&lang=en&animation=true" width="550" /></a>
 </p>
 <p align="center"> 
@@ -16,7 +19,7 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>54</td></tr>
-    <tr><td>Primogems</td><td>733<br>(2022-04-05 09:02:52)</td></tr>
+    <tr><td>Primogems</td><td>1013<br>(2022-04-07 17:48:29)</td></tr>
     <tr><td>Total rewards claimed</td><td>7</td></tr>
     <tr><td>Last reward</td>
         <td>
@@ -25,24 +28,24 @@
             8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>06.04.2022 16:46:16 UTC</td></tr>
+    <tr><td>Last checked</td><td>07.04.2022 10:48:38 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>335</td></tr>
-    <tr><td>Active days</td><td>102</td></tr>
+    <tr><td>Achievements</td><td>336</td></tr>
+    <tr><td>Active days</td><td>103</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
-    <tr><td>Anemoculi</td><td>0</td></tr>
-    <tr><td>Geoculi</td><td>0</td></tr>
-    <tr><td>Electroculi</td><td>9</td></tr>
+    <tr><td>Anemoculi</td><td>65</td></tr>
+    <tr><td>Geoculi</td><td>130</td></tr>
+    <tr><td>Electroculi</td><td>159</td></tr>
     <tr><td>Common chests</td><td>869</td></tr>
     <tr><td>Exquisite chests</td><td>766</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
-    <tr><td>Unlocked waypoints</td><td>136</td></tr>
+    <tr><td>Unlocked waypoints</td><td>160</td></tr>
     <tr><td>Unlocked domains</td><td>30</td></tr>
 </table>
 
@@ -64,20 +67,32 @@
 
 <table>
     <tr>
+        <th>Enkanomiya</th>
         <th>Inazuma</th>
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
-        <th></th>
     </tr>
     <tr>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
-        <td><p align="center"><img src="" width="180"></p></td>
     </tr>
     <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>81.0%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>0</td>
+                </tr>
+            </table>
+        </td>
         <td>
             <table>
                 <tr>
@@ -123,18 +138,6 @@
                 <tr>
                     <td>Reputation level</td>
                     <td>8</td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td>Explored</td>
-                    <td>81.0%</td>
-                </tr>
-                <tr>
-                    <td>Offering level</td>
-                    <td>0</td>
                 </tr>
             </table>
         </td>
