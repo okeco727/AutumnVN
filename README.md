@@ -19,23 +19,23 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>54</td></tr>
-    <tr><td>Primogems</td><td>1098<br>(2022-04-07 18:13:06)</td></tr>
-    <tr><td>Total rewards claimed</td><td>8</td></tr>
+    <tr><td>Primogems</td><td>1158<br>(2022-04-08 13:58:02)</td></tr>
+    <tr><td>Total rewards claimed</td><td>9</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
             <br>
-            3 x Adventurer's Experience
+            3 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>07.04.2022 16:46:00 UTC</td></tr>
+    <tr><td>Last checked</td><td>08.04.2022 16:48:09 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>336</td></tr>
-    <tr><td>Active days</td><td>103</td></tr>
+    <tr><td>Active days</td><td>104</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -213,7 +213,7 @@
     <tr><td>Name</td><td>"The Catch"</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Refinement</td><td>3</td></tr>
+    <tr><td>Refinement</td><td>4</td></tr>
 </table>
 
 </td></tr>
