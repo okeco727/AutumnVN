@@ -19,30 +19,30 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>54</td></tr>
-    <tr><td>Primogems</td><td>1158<br>(2022-04-08 13:58:02)</td></tr>
-    <tr><td>Total rewards claimed</td><td>9</td></tr>
+    <tr><td>Primogems</td><td>1223<br>(2022-04-09 08:38:29)</td></tr>
+    <tr><td>Total rewards claimed</td><td>10</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
             <br>
-            3 x Fine Enhancement Ore
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>08.04.2022 16:48:09 UTC</td></tr>
+    <tr><td>Last checked</td><td>09.04.2022 16:44:27 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>336</td></tr>
-    <tr><td>Active days</td><td>104</td></tr>
+    <tr><td>Active days</td><td>105</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>159</td></tr>
     <tr><td>Common chests</td><td>869</td></tr>
-    <tr><td>Exquisite chests</td><td>766</td></tr>
+    <tr><td>Exquisite chests</td><td>767</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
     <tr><td>Unlocked waypoints</td><td>160</td></tr>
@@ -97,7 +97,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>85.4%</td>
+                    <td>85.5%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -428,7 +428,7 @@
 <table>
     <tr><td>Name</td><td>Favonius Lance</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>70</td></tr>
+    <tr><td>Level</td><td>90</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
