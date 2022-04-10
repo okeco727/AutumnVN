@@ -19,30 +19,30 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>54</td></tr>
-    <tr><td>Primogems</td><td>1223<br>(2022-04-09 08:38:29)</td></tr>
-    <tr><td>Total rewards claimed</td><td>10</td></tr>
+    <tr><td>Primogems</td><td>1295<br>(2022-04-10 07:31:20)</td></tr>
+    <tr><td>Total rewards claimed</td><td>11</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
             <br>
-            5000 x Mora
+            20 x Primogem
         </td>
     </tr>
-    <tr><td>Last checked</td><td>09.04.2022 16:44:27 UTC</td></tr>
+    <tr><td>Last checked</td><td>10.04.2022 16:44:41 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>336</td></tr>
-    <tr><td>Active days</td><td>105</td></tr>
+    <tr><td>Active days</td><td>106</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>159</td></tr>
-    <tr><td>Common chests</td><td>869</td></tr>
-    <tr><td>Exquisite chests</td><td>767</td></tr>
+    <tr><td>Common chests</td><td>870</td></tr>
+    <tr><td>Exquisite chests</td><td>770</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
     <tr><td>Unlocked waypoints</td><td>160</td></tr>
@@ -109,7 +109,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>91.4%</td>
+                    <td>91.7%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -121,7 +121,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>78.9%</td>
+                    <td>79.1%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
