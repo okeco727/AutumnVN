@@ -19,23 +19,23 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>54</td></tr>
-    <tr><td>Primogems</td><td>1295<br>(2022-04-10 07:31:20)</td></tr>
-    <tr><td>Total rewards claimed</td><td>11</td></tr>
+    <tr><td>Primogems</td><td>1395<br>(2022-04-11 14:22:38)</td></tr>
+    <tr><td>Total rewards claimed</td><td>12</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png" width="120px">
             <br>
-            20 x Primogem
+            3 x Fried Radish Balls
         </td>
     </tr>
-    <tr><td>Last checked</td><td>10.04.2022 16:44:41 UTC</td></tr>
+    <tr><td>Last checked</td><td>11.04.2022 16:48:45 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>336</td></tr>
-    <tr><td>Active days</td><td>106</td></tr>
+    <tr><td>Achievements</td><td>337</td></tr>
+    <tr><td>Active days</td><td>107</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -652,6 +652,42 @@
 </table>
 
 
+### Sayu
+
+<table>
+<tr>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png" width="256"></p></td>
+    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png" width="256"></p></td>
+</tr>
+
+<tr>
+<td>
+
+<table>
+    <tr><td>Rarity</td><td>4</td></tr>
+    <tr><td>Element</td><td>Anemo</td></tr>
+    <tr><td>Level</td><td>2</td></tr>
+    <tr><td>Friendship</td><td>2</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
+    <tr><td>Artifacts</td><td></td></tr>
+    <tr><td>Outfits</td><td></td></tr>
+</table>
+
+</td>
+
+<td>
+
+<table>
+    <tr><td>Name</td><td>Waster Greatsword</td></tr>
+    <tr><td>Rarity</td><td>1</td></tr>
+    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Refinement</td><td>1</td></tr>
+</table>
+
+</td></tr>
+</table>
+
+
 ### Sucrose
 
 <table>
@@ -679,42 +715,6 @@
 
 <table>
     <tr><td>Name</td><td>Apprentice's Notes</td></tr>
-    <tr><td>Rarity</td><td>1</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
-    <tr><td>Refinement</td><td>1</td></tr>
-</table>
-
-</td></tr>
-</table>
-
-
-### Sayu
-
-<table>
-<tr>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sayu.png" width="256"></p></td>
-    <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png" width="256"></p></td>
-</tr>
-
-<tr>
-<td>
-
-<table>
-    <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Element</td><td>Anemo</td></tr>
-    <tr><td>Level</td><td>2</td></tr>
-    <tr><td>Friendship</td><td>1</td></tr>
-    <tr><td>Constellation</td><td>0</td></tr>
-    <tr><td>Artifacts</td><td></td></tr>
-    <tr><td>Outfits</td><td></td></tr>
-</table>
-
-</td>
-
-<td>
-
-<table>
-    <tr><td>Name</td><td>Waster Greatsword</td></tr>
     <tr><td>Rarity</td><td>1</td></tr>
     <tr><td>Level</td><td>1</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
