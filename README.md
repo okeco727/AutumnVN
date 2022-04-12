@@ -19,23 +19,23 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>54</td></tr>
-    <tr><td>Primogems</td><td>1395<br>(2022-04-11 14:22:38)</td></tr>
-    <tr><td>Total rewards claimed</td><td>12</td></tr>
+    <tr><td>Primogems</td><td>1455<br>(2022-04-12 07:04:58)</td></tr>
+    <tr><td>Total rewards claimed</td><td>13</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            3 x Fried Radish Balls
+            2 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>11.04.2022 16:48:45 UTC</td></tr>
+    <tr><td>Last checked</td><td>12.04.2022 16:46:59 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>337</td></tr>
-    <tr><td>Active days</td><td>107</td></tr>
+    <tr><td>Active days</td><td>108</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -97,11 +97,11 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>85.5%</td>
+                    <td>84.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>5</td>
+                    <td>6</td>
                 </tr>
             </table>
         </td>
@@ -666,7 +666,7 @@
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
-    <tr><td>Level</td><td>2</td></tr>
+    <tr><td>Level</td><td>3</td></tr>
     <tr><td>Friendship</td><td>2</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
