@@ -20,22 +20,22 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>54</td></tr>
     <tr><td>Primogems</td><td>1575<br>(2022-04-14 09:14:13)</td></tr>
-    <tr><td>Total rewards claimed</td><td>15</td></tr>
+    <tr><td>Total rewards claimed</td><td>16</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
             <br>
-            5 x Adventurer's Experience
+            5 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>14.04.2022 16:49:10 UTC</td></tr>
+    <tr><td>Last checked</td><td>15.04.2022 16:49:05 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>337</td></tr>
-    <tr><td>Active days</td><td>110</td></tr>
+    <tr><td>Achievements</td><td>338</td></tr>
+    <tr><td>Active days</td><td>111</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
