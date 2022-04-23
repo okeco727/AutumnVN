@@ -20,28 +20,28 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
     <tr><td>Primogems</td><td>2236<br>(2022-04-22 10:42:26)</td></tr>
-    <tr><td>Total rewards claimed</td><td>23</td></tr>
+    <tr><td>Total rewards claimed</td><td>24</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
             <br>
-            5 x Fine Enhancement Ore
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>22.04.2022 16:50:58 UTC</td></tr>
+    <tr><td>Last checked</td><td>23.04.2022 16:45:37 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>338</td></tr>
-    <tr><td>Active days</td><td>117</td></tr>
+    <tr><td>Active days</td><td>118</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>159</td></tr>
-    <tr><td>Common chests</td><td>870</td></tr>
+    <tr><td>Common chests</td><td>872</td></tr>
     <tr><td>Exquisite chests</td><td>771</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
@@ -135,7 +135,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>79.1%</td>
+                    <td>79.2%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -680,8 +680,8 @@
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
-    <tr><td>Level</td><td>4</td></tr>
-    <tr><td>Friendship</td><td>3</td></tr>
+    <tr><td>Level</td><td>5</td></tr>
+    <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
