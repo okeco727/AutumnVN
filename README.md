@@ -19,23 +19,23 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Primogems</td><td>2236<br>(2022-04-22 10:42:26)</td></tr>
-    <tr><td>Total rewards claimed</td><td>24</td></tr>
+    <tr><td>Primogems</td><td>2408<br>(2022-04-24 09:50:07)</td></tr>
+    <tr><td>Total rewards claimed</td><td>25</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png" width="120px">
             <br>
-            5000 x Mora
+            3 x Hero's Wit
         </td>
     </tr>
-    <tr><td>Last checked</td><td>23.04.2022 16:45:37 UTC</td></tr>
+    <tr><td>Last checked</td><td>24.04.2022 16:45:26 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>338</td></tr>
-    <tr><td>Active days</td><td>118</td></tr>
+    <tr><td>Active days</td><td>119</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
