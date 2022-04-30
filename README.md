@@ -20,15 +20,15 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
     <tr><td>Primogems</td><td>2468<br>(2022-04-26 20:49:31)</td></tr>
-    <tr><td>Total rewards claimed</td><td>30</td></tr>
+    <tr><td>Total rewards claimed</td><td>1</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            5000 x Mora
+            3 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>29.04.2022 16:48:45 UTC</td></tr>
+    <tr><td>Last checked</td><td>30.04.2022 16:45:28 UTC</td></tr>
 </table>
 
 ## Stats
