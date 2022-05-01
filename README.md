@@ -19,29 +19,29 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Primogems</td><td>2468<br>(2022-04-26 20:49:31)</td></tr>
-    <tr><td>Total rewards claimed</td><td>1</td></tr>
+    <tr><td>Primogems</td><td>2540<br>(2022-05-01 13:05:50)</td></tr>
+    <tr><td>Total rewards claimed</td><td>2</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://uploadstatic-sea.hoyolab.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
             <br>
-            3 x Adventurer's Experience
+            3 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>30.04.2022 16:45:28 UTC</td></tr>
+    <tr><td>Last checked</td><td>01.05.2022 16:46:44 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>338</td></tr>
-    <tr><td>Active days</td><td>120</td></tr>
+    <tr><td>Active days</td><td>121</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>159</td></tr>
-    <tr><td>Common chests</td><td>872</td></tr>
+    <tr><td>Common chests</td><td>873</td></tr>
     <tr><td>Exquisite chests</td><td>771</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
@@ -115,7 +115,7 @@
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>6</td>
+                    <td>7</td>
                 </tr>
             </table>
         </td>
@@ -213,7 +213,7 @@
     <tr><td>Rarity</td><td>5</td></tr>
     <tr><td>Element</td><td>Electro</td></tr>
     <tr><td>Level</td><td>90</td></tr>
-    <tr><td>Friendship</td><td>7</td></tr>
+    <tr><td>Friendship</td><td>8</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>5 x Emblem of Severed Fate</td></tr>
     <tr><td>Outfits</td><td></td></tr>
@@ -680,7 +680,7 @@
 <table>
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
-    <tr><td>Level</td><td>5</td></tr>
+    <tr><td>Level</td><td>6</td></tr>
     <tr><td>Friendship</td><td>4</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
