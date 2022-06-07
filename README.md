@@ -25,15 +25,15 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
     <tr><td>Primogems</td><td>2620<br>(2022-05-02 09:48:48)</td></tr>
-    <tr><td>Total rewards claimed</td><td>7</td></tr>
+    <tr><td>Total rewards claimed</td><td>8</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            8000 x Mora
+            3 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>06.06.2022 16:49:34 UTC</td></tr>
+    <tr><td>Last checked</td><td>07.06.2022 16:49:27 UTC</td></tr>
 </table>
 
 ## Stats
@@ -43,15 +43,15 @@
     <tr><td>Active days</td><td>122</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>-</td></tr>
-    <tr><td>Anemoculi</td><td>0</td></tr>
-    <tr><td>Geoculi</td><td>0</td></tr>
-    <tr><td>Electroculi</td><td>9</td></tr>
+    <tr><td>Anemoculi</td><td>65</td></tr>
+    <tr><td>Geoculi</td><td>130</td></tr>
+    <tr><td>Electroculi</td><td>159</td></tr>
     <tr><td>Common chests</td><td>873</td></tr>
     <tr><td>Exquisite chests</td><td>771</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
-    <tr><td>Unlocked waypoints</td><td>136</td></tr>
-    <tr><td>Unlocked domains</td><td>30</td></tr>
+    <tr><td>Unlocked waypoints</td><td>163</td></tr>
+    <tr><td>Unlocked domains</td><td>31</td></tr>
 </table>
 
 ## Spiral Abyss
@@ -72,29 +72,51 @@
 
 <table>
     <tr>
+        <th>The Chasm</th>
+        <th>Enkanomiya</th>
         <th>Inazuma</th>
         <th>Dragonspine</th>
         <th>Liyue</th>
         <th>Mondstadt</th>
-        <th></th>
-        <th></th>
-        <th></th>
     </tr>
     <tr>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png" width="180"></p></td>
+        <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Daoqi.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Dragonspine.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Liyue.png" width="180"></p></td>
         <td><p align="center"><img src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png" width="180"></p></td>
-        <td><p align="center"><img src="" width="180"></p></td>
-        <td><p align="center"><img src="" width="180"></p></td>
-        <td><p align="center"><img src="" width="180"></p></td>
     </tr>
     <tr>
         <td>
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>86.0%</td>
+                    <td>11.5%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>0</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>81.0%</td>
+                </tr>
+                <tr>
+                    <td>Offering level</td>
+                    <td>0</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>84.0%</td>
                 </tr>
                 <tr>
                     <td>Reputation level</td>
@@ -135,42 +157,6 @@
                 <tr>
                     <td>Reputation level</td>
                     <td>8</td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td>Explored</td>
-                    <td>11.5%</td>
-                </tr>
-                <tr>
-                    <td>Offering level</td>
-                    <td>0</td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td>Explored</td>
-                    <td>81.0%</td>
-                </tr>
-                <tr>
-                    <td>Offering level</td>
-                    <td>0</td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td>Explored</td>
-                    <td>0.0%</td>
-                </tr>
-                <tr>
-                    <td>Offering level</td>
-                    <td>0</td>
                 </tr>
             </table>
         </td>
