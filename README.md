@@ -25,15 +25,15 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
     <tr><td>Primogems</td><td>2620<br>(2022-05-02 09:48:48)</td></tr>
-    <tr><td>Total rewards claimed</td><td>18</td></tr>
+    <tr><td>Total rewards claimed</td><td>19</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png" width="120px">
             <br>
-            20 x Primogem
+            3 x Fisherman's Toast
         </td>
     </tr>
-    <tr><td>Last checked</td><td>17.06.2022 16:46:55 UTC</td></tr>
+    <tr><td>Last checked</td><td>18.06.2022 16:43:00 UTC</td></tr>
 </table>
 
 ## Stats
