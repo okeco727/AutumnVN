@@ -25,15 +25,15 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
     <tr><td>Primogems</td><td>2620<br>(2022-05-02 09:48:48)</td></tr>
-    <tr><td>Total rewards claimed</td><td>27</td></tr>
+    <tr><td>Total rewards claimed</td><td>28</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png" width="120px">
             <br>
-            3 x Adventurer's Experience
+            3 x Hero's Wit
         </td>
     </tr>
-    <tr><td>Last checked</td><td>26.06.2022 16:43:17 UTC</td></tr>
+    <tr><td>Last checked</td><td>27.06.2022 16:52:29 UTC</td></tr>
 </table>
 
 ## Stats
