@@ -25,15 +25,15 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
     <tr><td>Primogems</td><td>2620<br>(2022-05-02 09:48:48)</td></tr>
-    <tr><td>Total rewards claimed</td><td>23</td></tr>
+    <tr><td>Total rewards claimed</td><td>24</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/cb0d79765ac1b39571d2e8d09e24825c_7671070233748405953.png" width="120px">
             <br>
-            5 x Fine Enhancement Ore
+            5000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>22.07.2022 16:51:25 UTC</td></tr>
+    <tr><td>Last checked</td><td>23.07.2022 16:45:19 UTC</td></tr>
 </table>
 
 ## Stats
