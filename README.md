@@ -24,7 +24,7 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Primogems</td><td>2620<br>(2022-05-02 09:48:48)</td></tr>
+    <tr><td>Primogems</td><td>3440<br>(2022-09-14 15:40:49)</td></tr>
     <tr><td>Total rewards claimed</td><td>14</td></tr>
     <tr><td>Last reward</td>
         <td>
@@ -33,7 +33,7 @@
             8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>14.09.2022 04:29:12 UTC</td></tr>
+    <tr><td>Last checked</td><td>14.09.2022 08:30:27 UTC</td></tr>
 </table>
 
 ## Stats
@@ -47,7 +47,7 @@
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>159</td></tr>
     <tr><td>Common chests</td><td>873</td></tr>
-    <tr><td>Exquisite chests</td><td>771</td></tr>
+    <tr><td>Exquisite chests</td><td>773</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
     <tr><td>Unlocked waypoints</td><td>163</td></tr>
@@ -130,7 +130,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>91.7%</td>
+                    <td>92.7%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -448,7 +448,7 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Cryo</td></tr>
     <tr><td>Level</td><td>80</td></tr>
-    <tr><td>Friendship</td><td>8</td></tr>
+    <tr><td>Friendship</td><td>9</td></tr>
     <tr><td>Constellation</td><td>2</td></tr>
     <tr><td>Artifacts</td><td>4 x Noblesse Oblige<br>1 x Shimenawa's Reminiscence</td></tr>
     <tr><td>Outfits</td><td>To the Church's Free Spirit</td></tr>
