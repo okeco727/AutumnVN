@@ -33,16 +33,16 @@
             8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>13.09.2022 16:52:09 UTC</td></tr>
+    <tr><td>Last checked</td><td>14.09.2022 04:29:12 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>338</td></tr>
-    <tr><td>Active days</td><td>122</td></tr>
+    <tr><td>Achievements</td><td>339</td></tr>
+    <tr><td>Active days</td><td>123</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
-    <tr><td>Spiral abyss</td><td>-</td></tr>
+    <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>159</td></tr>
@@ -170,7 +170,7 @@
                 </tr>
                 <tr>
                     <td>Reputation level</td>
-                    <td>0</td>
+                    <td>1</td>
                 </tr>
             </table>
         </td>
