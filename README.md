@@ -25,32 +25,32 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
     <tr><td>Primogems</td><td>3440<br>(2022-09-14 15:40:49)</td></tr>
-    <tr><td>Total rewards claimed</td><td>15</td></tr>
+    <tr><td>Total rewards claimed</td><td>16</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png" width="120px">
             <br>
-            5 x Adventurer's Experience
+            5 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>14.09.2022 16:54:03 UTC</td></tr>
+    <tr><td>Last checked</td><td>15.09.2022 16:51:11 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>339</td></tr>
-    <tr><td>Active days</td><td>123</td></tr>
+    <tr><td>Achievements</td><td>340</td></tr>
+    <tr><td>Active days</td><td>124</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
-    <tr><td>Electroculi</td><td>159</td></tr>
-    <tr><td>Common chests</td><td>873</td></tr>
+    <tr><td>Electroculi</td><td>160</td></tr>
+    <tr><td>Common chests</td><td>875</td></tr>
     <tr><td>Exquisite chests</td><td>773</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
-    <tr><td>Unlocked waypoints</td><td>163</td></tr>
+    <tr><td>Unlocked waypoints</td><td>165</td></tr>
     <tr><td>Unlocked domains</td><td>31</td></tr>
 </table>
 
@@ -94,7 +94,7 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>11.5%</td>
+                    <td>15.0%</td>
                 </tr>
                 <tr>
                     <td>Offering level</td>
@@ -821,7 +821,7 @@
 <table>
     <tr><td>Name</td><td>Dragon's Bane</td></tr>
     <tr><td>Rarity</td><td>4</td></tr>
-    <tr><td>Level</td><td>1</td></tr>
+    <tr><td>Level</td><td>2</td></tr>
     <tr><td>Refinement</td><td>1</td></tr>
 </table>
 
