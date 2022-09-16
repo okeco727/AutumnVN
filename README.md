@@ -33,14 +33,14 @@
             5 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>15.09.2022 16:51:11 UTC</td></tr>
+    <tr><td>Last checked</td><td>16.09.2022 12:42:54 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>340</td></tr>
-    <tr><td>Active days</td><td>124</td></tr>
+    <tr><td>Active days</td><td>125</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
