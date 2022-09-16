@@ -24,7 +24,7 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Primogems</td><td>3440<br>(2022-09-14 15:40:49)</td></tr>
+    <tr><td>Primogems</td><td>4253<br>(2022-09-16 21:38:06)</td></tr>
     <tr><td>Total rewards claimed</td><td>16</td></tr>
     <tr><td>Last reward</td>
         <td>
@@ -33,7 +33,7 @@
             5 x Fine Enhancement Ore
         </td>
     </tr>
-    <tr><td>Last checked</td><td>16.09.2022 12:42:54 UTC</td></tr>
+    <tr><td>Last checked</td><td>16.09.2022 15:10:01 UTC</td></tr>
 </table>
 
 ## Stats
