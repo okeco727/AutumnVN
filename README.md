@@ -24,23 +24,23 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Primogems</td><td>4253<br>(2022-09-16 21:38:06)</td></tr>
-    <tr><td>Total rewards claimed</td><td>18</td></tr>
+    <tr><td>Primogems</td><td>4493<br>(2022-09-18 14:45:57)</td></tr>
+    <tr><td>Total rewards claimed</td><td>19</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png" width="120px">
             <br>
-            20 x Primogem
+            3 x Fisherman's Toast
         </td>
     </tr>
-    <tr><td>Last checked</td><td>17.09.2022 16:48:42 UTC</td></tr>
+    <tr><td>Last checked</td><td>18.09.2022 16:48:26 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>340</td></tr>
-    <tr><td>Active days</td><td>126</td></tr>
+    <tr><td>Active days</td><td>127</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -700,7 +700,7 @@
     <tr><td>Rarity</td><td>4</td></tr>
     <tr><td>Element</td><td>Anemo</td></tr>
     <tr><td>Level</td><td>6</td></tr>
-    <tr><td>Friendship</td><td>4</td></tr>
+    <tr><td>Friendship</td><td>5</td></tr>
     <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td></td></tr>
     <tr><td>Outfits</td><td></td></tr>
