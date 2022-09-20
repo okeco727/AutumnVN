@@ -24,29 +24,29 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Primogems</td><td>4493<br>(2022-09-18 14:45:57)</td></tr>
-    <tr><td>Total rewards claimed</td><td>20</td></tr>
+    <tr><td>Primogems</td><td>4617<br>(2022-09-20 15:08:20)</td></tr>
+    <tr><td>Total rewards claimed</td><td>21</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
+            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
             <br>
-            3 x Adventurer's Experience
+            8000 x Mora
         </td>
     </tr>
-    <tr><td>Last checked</td><td>19.09.2022 16:53:08 UTC</td></tr>
+    <tr><td>Last checked</td><td>20.09.2022 16:51:18 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>340</td></tr>
-    <tr><td>Active days</td><td>128</td></tr>
+    <tr><td>Active days</td><td>129</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
     <tr><td>Geoculi</td><td>130</td></tr>
     <tr><td>Electroculi</td><td>160</td></tr>
-    <tr><td>Common chests</td><td>878</td></tr>
+    <tr><td>Common chests</td><td>879</td></tr>
     <tr><td>Exquisite chests</td><td>773</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
