@@ -25,22 +25,22 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
     <tr><td>Primogems</td><td>4804<br>(2022-09-23 11:40:29)</td></tr>
-    <tr><td>Total rewards claimed</td><td>24</td></tr>
+    <tr><td>Total rewards claimed</td><td>25</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png" width="120px">
             <br>
-            5000 x Mora
+            3 x Hero's Wit
         </td>
     </tr>
-    <tr><td>Last checked</td><td>23.09.2022 16:54:39 UTC</td></tr>
+    <tr><td>Last checked</td><td>24.09.2022 16:48:04 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>341</td></tr>
-    <tr><td>Active days</td><td>132</td></tr>
+    <tr><td>Active days</td><td>133</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -134,7 +134,7 @@
                 </tr>
                 <tr>
                     <td>Offering level</td>
-                    <td>10</td>
+                    <td>11</td>
                 </tr>
             </table>
         </td>
