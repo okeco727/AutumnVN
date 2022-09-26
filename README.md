@@ -25,22 +25,22 @@
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
     <tr><td>Primogems</td><td>4994<br>(2022-09-25 23:31:26)</td></tr>
-    <tr><td>Total rewards claimed</td><td>26</td></tr>
+    <tr><td>Total rewards claimed</td><td>27</td></tr>
     <tr><td>Last reward</td>
         <td>
-            <img src="https://upload-static.hoyoverse.com/event/2021/07/30/37bb0fbfebc5e378069fedd61e4c2c67_3877747075554529271.png" width="120px">
+            <img src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png" width="120px">
             <br>
-            3 x Almond Tofu
+            3 x Adventurer's Experience
         </td>
     </tr>
-    <tr><td>Last checked</td><td>25.09.2022 16:48:21 UTC</td></tr>
+    <tr><td>Last checked</td><td>26.09.2022 16:54:45 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
     <tr><td>Achievements</td><td>341</td></tr>
-    <tr><td>Active days</td><td>134</td></tr>
+    <tr><td>Active days</td><td>135</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -50,7 +50,7 @@
     <tr><td>Exquisite chests</td><td>773</td></tr>
     <tr><td>Precious chests</td><td>212</td></tr>
     <tr><td>Luxurious chests</td><td>96</td></tr>
-    <tr><td>Unlocked waypoints</td><td>165</td></tr>
+    <tr><td>Unlocked waypoints</td><td>166</td></tr>
     <tr><td>Unlocked domains</td><td>31</td></tr>
 </table>
 
