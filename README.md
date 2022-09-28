@@ -24,7 +24,7 @@
 <table>
     <tr><td>Nickname</td><td>AutumnVN</td></tr>
     <tr><td>Adventure rank</td><td>55</td></tr>
-    <tr><td>Primogems</td><td>4994<br>(2022-09-25 23:31:26)</td></tr>
+    <tr><td>Primogems</td><td>6289<br>(2022-09-28 19:57:49)</td></tr>
     <tr><td>Total rewards claimed</td><td>28</td></tr>
     <tr><td>Last reward</td>
         <td>
@@ -33,14 +33,14 @@
             3 x Hero's Wit
         </td>
     </tr>
-    <tr><td>Last checked</td><td>27.09.2022 16:58:45 UTC</td></tr>
+    <tr><td>Last checked</td><td>28.09.2022 12:54:10 UTC</td></tr>
 </table>
 
 ## Stats
 
 <table>
-    <tr><td>Achievements</td><td>341</td></tr>
-    <tr><td>Active days</td><td>135</td></tr>
+    <tr><td>Achievements</td><td>342</td></tr>
+    <tr><td>Active days</td><td>136</td></tr>
     <tr><td>Characters</td><td>22</td></tr>
     <tr><td>Spiral abyss</td><td>8-3</td></tr>
     <tr><td>Anemoculi</td><td>65</td></tr>
@@ -266,10 +266,10 @@
 
 <table>
     <tr><td>Rarity</td><td>5</td></tr>
-    <tr><td>Element</td><td>Geo</td></tr>
+    <tr><td>Element</td><td>Dendro</td></tr>
     <tr><td>Level</td><td>80</td></tr>
     <tr><td>Friendship</td><td>0</td></tr>
-    <tr><td>Constellation</td><td>6</td></tr>
+    <tr><td>Constellation</td><td>0</td></tr>
     <tr><td>Artifacts</td><td>2 x Instructor<br>2 x Berserker<br>1 x Gladiator's Finale</td></tr>
     <tr><td>Outfits</td><td></td></tr>
 </table>
