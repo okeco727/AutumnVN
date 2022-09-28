@@ -33,7 +33,7 @@
             3 x Hero's Wit
         </td>
     </tr>
-    <tr><td>Last checked</td><td>28.09.2022 12:54:10 UTC</td></tr>
+    <tr><td>Last checked</td><td>28.09.2022 13:13:56 UTC</td></tr>
 </table>
 
 ## Stats
